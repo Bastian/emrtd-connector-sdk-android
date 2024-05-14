@@ -1,4 +1,4 @@
-package com.kinegram.android.emrtdconnectorapp
+package com.kinegram.android.emrtdconnectorexampleapp
 
 import android.annotation.SuppressLint
 import android.app.PendingIntent

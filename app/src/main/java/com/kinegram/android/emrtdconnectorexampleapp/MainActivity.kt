@@ -1,4 +1,4 @@
-package com.kinegram.android.emrtdconnectorapp
+package com.kinegram.android.emrtdconnectorexampleapp
 
 import android.content.Context
 import android.content.Intent

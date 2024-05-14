@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-	namespace = "com.kinegram.android.emrtdconnectorapp"
+	namespace = "com.kinegram.android.emrtdconnectorexampleapp"
 	compileSdk = 34
 
 	defaultConfig {
-		applicationId = "com.kinegram.android.emrtdconnectorapp"
+		applicationId = "com.kinegram.android.emrtdconnectorexampleapp"
 		minSdk = 21
 		targetSdk = 34
 		versionCode = 16
